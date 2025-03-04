@@ -40,7 +40,7 @@ Utilizing Power Query for data transformation and loading (ETL). Which serves as
 Data model which helps in reducing data redundancies and also creating relationships between the key fact tables and the dimension table to enable ease of cardinality among the tables. Since the datasset contains 4 table the rule of thumbs states that there should be atleast 3 relationships.
 DAX functions and expression (DAX). Data analysis expression for cretaing explicit aggregage, measures, calculated columns and functions to analyze KPI's and also expressions which helps in creating total revenue, YoY revenues, conditional coulmn e.t.c ![Screenshot 2025-03-04 211551 dax](https://github.com/user-attachments/assets/bad4676d-9320-4c85-9459-7a015af925e4)
 
-The document was structured in a table format with step by step instructions on the left, and screenshots on the right. This was designed to be easily followed by the end user. ![Screenshot 2025-03-04 210037 3D](https://github.com/user-attachments/assets/e3392484-2620-41d4-b139-8e3ca56f46c8)
+The document was structured and presents a screenshots of the dashboard that shows the analysis for the year 2017. This was designed to be easily followed by the stakeholdes and end user for clearification of the analysis.<img width="1064" alt="image" src="https://github.com/user-attachments/assets/0ec1d1b9-39ca-4ed0-98d6-d71eeab5be20" />
 
 
 ## Key Findings and Visualizations:
