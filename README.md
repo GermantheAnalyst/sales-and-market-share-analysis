@@ -34,17 +34,19 @@ Data preparation involved:
 
 The analysis was conducted using Power BI Desktop and Power BI Service. Key techniques included:
 Calculating market share using DAX measures.
-Creating time series charts to visualize sales and market share trends.
-Developing interactive dashboards to explore product and regional performance.
-Utilizing Power Query for data transformation and loading (ETL).
-Describe the use of specific DAX functions.
-Explain the logic behind the Data model.
-The document was structured in a table format with step by step instructions on the left, and screenshots on the right. This was designed to be easily followed by the end user."
+Creating time series charts to visualize sales and market share trends, also group other competitors and analysing their strength agaijnst vanarsdel.
+Developing interactive dashboards to explore product and regional performance (see below).
+Utilizing Power Query for data transformation and loading (ETL). Which serves as the kitchen of Power BI, where data cleaning and transformation takes place by using m-language
+Data model which helps in reducing data redundancies and also creating relationships between the key fact tables and the dimension table to enable ease of cardinality among the tables. Since the datasset contains 4 table the rule of thumbs states that there should be atleast 3 relationships.
+DAX functions and expression (DAX). Data analysis expression for cretaing explicit aggregage, measures, calculated columns and functions to analyze KPI's and also expressions which helps in creating total revenue, YoY revenues, conditional coulmn e.t.c ![Screenshot 2025-03-04 211551 dax](https://github.com/user-attachments/assets/bad4676d-9320-4c85-9459-7a015af925e4)
+
+The document was structured in a table format with step by step instructions on the left, and screenshots on the right. This was designed to be easily followed by the end user. ![Screenshot 2025-03-04 210037 3D](https://github.com/user-attachments/assets/e3392484-2620-41d4-b139-8e3ca56f46c8)
+
 
 ## Key Findings and Visualizations:
 
 Key findings included:
-[Specific finding 1, e.g., "VanArsdel's market share in the [Region] market was [Percentage], indicating a [Trend] over the past year."]
+Specific finding 1, e.g., "VanArsdel's market share in the [Region] market was [Percentage], indicating a [Trend] over the past year.
 [Specific finding 2, e.g., "The [Product] line demonstrated the highest sales growth, particularly in the [Region] market."]
 [Specific finding 3, e.g., "Seasonal trends were observed in sales, with peak sales occurring during [Month(s)]."]
 "Visualizations included:
