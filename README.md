@@ -43,29 +43,57 @@ DAX functions and expression (DAX). Data analysis expression for cretaing explic
 The document was structured and presents a screenshots of the dashboard that shows the analysis for the year 2017. This was designed to be easily followed by the stakeholdes and end user for clearification of the analysis.<img width="1064" alt="image" src="https://github.com/user-attachments/assets/0ec1d1b9-39ca-4ed0-98d6-d71eeab5be20" />
 
 
-## Key Findings and Visualizations:
+## Key Findings:
 
 Key findings included:
-Specific finding 1, e.g., "VanArsdel's market share in the [Region] market was [Percentage], indicating a [Trend] over the past year.
-[Specific finding 2, e.g., "The [Product] line demonstrated the highest sales growth, particularly in the [Region] market."]
-[Specific finding 3, e.g., "Seasonal trends were observed in sales, with peak sales occurring during [Month(s)]."]
-"Visualizations included:
-Market share pie charts by region.
-Time series line charts showing sales and market share trends.
-Bar charts comparing product sales across regions.
-Interactive dashboards allowing users to drill down into specific data points.
-Include screenshots of key visualizations with clear titles and labels.
 
- ## Business Implications and Recommendations:
+It's clear that VanArsdel is dominating the revenue charts with an impressive £11.3 million, representing about 51% of the total revenue. In stark contrast, Currus is lagging significantly at only £1.2 million.
 
-Based on the analysis, the following recommendations were made:
-[Recommendation 1, e.g., "Increase marketing efforts in the [Region] market to capitalize on growth opportunities."]
-[Recommendation 2, e.g., "Invest in product development for the [Product] line to maintain its competitive advantage."]
-[Recommendation 3, e.g., "Optimize inventory management to align with seasonal demand fluctuations."]
-These recommendations aimed to improve VanArsdel's market share, increase sales revenue, and enhance overall business performance.
-If applicable, include the outcome of the recommendations.
+March proved to be an exceptional month, generating £4.8 million, more than double the £2.1 million earned in January, which turned out to be our lowest month.
+
+There's a notable correlation between sales revenue and the volume of units sold. For instance, when VanArsdel experienced revenue growth in 2016, it was mirrored by an increase in unit sales. Conversely, a decline in their revenue in 2017 resulted in a downfall in unit sales across the board, indicating a robust relationship between these two factors.
+
+March itself contributed nearly 22% of our total revenue during the review period, with fluctuations in monthly revenue showing a range from just above £2 million to almost £5 million.
+
+Comparing the current year's sales to the previous year's figures, VanArsdel observed the most significant decline, with this year's sales exceeding last year's by over £14 million. 
+
+In April, the Maximus UM product gained traction, accounting for about 8% of our total revenue.
+
+Regionally, California stands out as our highest-performing area, generating £28.4 million, which is more than double New York’s revenue of £13.9 million. Texas ranks in between, with £25.7 million, emphasizing that California alone contributes nearly 42% to our overall revenue.
+
+ ## Recommendations:
+
+**Recommendations for VanArsdel:**
+
+1. **Capitalize on March's Success:**
+   "March was a clear winner, bringing in significantly more revenue than any other month. Let's dig deeper into what drove those sales. Was it a specific promotion, a new product launch, or seasonal demand? Understanding this will help us replicate that success in future months."
+
+2. **Address the Year-Over-Year Decline:**
+   "We saw a big drop in VanArsdel's sales compared to last year. We need to investigate why this happened. Did competitors introduce new products? Were there changes in the market? Let's develop a plan to regain that lost ground."
+
+3. **Focus on the Maximus UM Product:**
+   "The Maximus UM product performed exceptionally well in April. Let's analyze why it did so well. Can we replicate that success with other products or in other months?"
+
+4. **Strengthen Currus's Performance:**
+   "Currus's sales are significantly lower than VanArsdel's. We need to understand the underlying causes. Are their products less competitive? Is their marketing less effective? Let's develop a strategy to boost their sales."
+
+5. **Leverage California's Market:**
+   "California is our strongest market by far. Let's focus on maintaining and expanding our presence there. We could explore targeted marketing campaigns or partnerships to further increase sales."
+
+6. **Analyze Regional Differences:**
+   "We see significant differences in sales across regions. Let's analyze the factors that contribute to these differences. Are there differences in consumer preferences or purchasing power? This will help us tailor our strategies to each region."
+
+7. **Monitor the Correlation Between Units and Revenue:**
+   "The strong correlation between units sold and revenue is a key insight. Let's continue to monitor this relationship and use it to inform our forecasting and inventory management."
+
+8. **Investigate January's Low Revenue:**
+   "January's revenue was significantly lower than other months. Let's investigate the reasons behind this drop and develop strategies to mitigate seasonal fluctuations."
 
 
 ## Conclusion:
 
-This analysis provided VanArsdel with valuable insights into its sales performance and market share. By leveraging Power BI's capabilities, we were able to create interactive dashboards that empower stakeholders to make data-driven decisions. This project demonstrates the power of data analytics in informing marketing and sales strategies.
+The analysis conducted provided VanArsdel with critical insights regarding its sales performance and market share, which are essential metrics for understanding how well the company is performing relative to competitors and market trends. By utilizing Power BI's advanced features, we were able to develop interactive dashboards that provide stakeholders with real-time access to key performance indicators (KPIs) and sales data. 
+
+These dashboards not only present data in a visually appealing manner but also allow users to drill down into specific metrics, analyze trends over time, and identify areas for improvement. The interactivity of the dashboards encourages stakeholders to explore the data themselves, fostering a culture of data-driven decision-making within the organization.
+
+This project serves as a compelling example of how data analytics can significantly influence marketing and sales strategies. By uncovering patterns and correlations within the sales data, VanArsdel can tailor its marketing efforts to better target specific customer segments, optimize pricing strategies, and enhance product offerings. Furthermore, the insights derived from the analysis allow the company to proactively adjust its strategies in response to market changes, ultimately driving growth and maintaining competitive advantage. Overall, this initiative underscores the importance of leveraging data analytics as a vital tool for informing business decisions and optimizing performance.
