@@ -18,7 +18,7 @@ The primary objective of this project was to analyze VanArsdel's sales data alon
 - Determine VanArsdel's market share in each target market.
 - Identify top-performing products and regions.
 - Uncover trends in sales and market share over time.
-- Provide actionable insights to inform marketing and sales strategies."
+- Provide actionable insights to inform marketing and sales strategies.
 
 ## Data Sources and Preparation:
 
@@ -67,33 +67,35 @@ In April, the Maximus UM product gained traction, accounting for about 8% of our
 
 Regionally, California stands out as our highest-performing area, generating £28.4 million, which is more than double New York’s revenue of £13.9 million. Texas ranks in between, with £25.7 million, emphasizing that California alone contributes nearly 42% to our overall revenue.
 
+Download full report here https://github.com/GermantheAnalyst/sales-and-market-share-analysis.git
+
  ## Recommendations:
 
 **Recommendations for VanArsdel:**
 
 1. **Capitalize on March's Success:**
-   "March was a clear winner, bringing in significantly more revenue than any other month. Let's dig deeper into what drove those sales. Was it a specific promotion, a new product launch, or seasonal demand? Understanding this will help us replicate that success in future months."
+   March was a clear winner, bringing in significantly more revenue than any other month. Let's dig deeper into what drove those sales. Was it a specific promotion, a new product launch, or seasonal demand? Understanding this will help us replicate that success in future months.
 
 2. **Address the Year-Over-Year Decline:**
-   "We saw a big drop in VanArsdel's sales compared to last year. We need to investigate why this happened. Did competitors introduce new products? Were there changes in the market? Let's develop a plan to regain that lost ground."
+   We saw a big drop in VanArsdel's sales compared to last year. We need to investigate why this happened. Did competitors introduce new products? Were there changes in the market? Let's develop a plan to regain that lost ground.
 
 3. **Focus on the Maximus UM Product:**
-   "The Maximus UM product performed exceptionally well in April. Let's analyze why it did so well. Can we replicate that success with other products or in other months?"
+   The Maximus UM product performed exceptionally well in April. Let's analyze why it did so well. Can we replicate that success with other products or in other months?
 
 4. **Strengthen Currus's Performance:**
-   "Currus's sales are significantly lower than VanArsdel's. We need to understand the underlying causes. Are their products less competitive? Is their marketing less effective? Let's develop a strategy to boost their sales."
+   Currus's sales are significantly lower than VanArsdel's. We need to understand the underlying causes. Are their products less competitive? Is their marketing less effective? Let's develop a strategy to boost their sales.
 
 5. **Leverage California's Market:**
-   "California is our strongest market by far. Let's focus on maintaining and expanding our presence there. We could explore targeted marketing campaigns or partnerships to further increase sales."
+   California is our strongest market by far. Let's focus on maintaining and expanding our presence there. We could explore targeted marketing campaigns or partnerships to further increase sales.
 
 6. **Analyze Regional Differences:**
-   "We see significant differences in sales across regions. Let's analyze the factors that contribute to these differences. Are there differences in consumer preferences or purchasing power? This will help us tailor our strategies to each region."
+   We see significant differences in sales across regions. Let's analyze the factors that contribute to these differences. Are there differences in consumer preferences or purchasing power? This will help us tailor our strategies to each region.
 
 7. **Monitor the Correlation Between Units and Revenue:**
-   "The strong correlation between units sold and revenue is a key insight. Let's continue to monitor this relationship and use it to inform our forecasting and inventory management."
+   The strong correlation between units sold and revenue is a key insight. Let's continue to monitor this relationship and use it to inform our forecasting and inventory management.
 
 8. **Investigate January's Low Revenue:**
-   "January's revenue was significantly lower than other months. Let's investigate the reasons behind this drop and develop strategies to mitigate seasonal fluctuations."
+   January's revenue was significantly lower than other months. Let's investigate the reasons behind this drop and develop strategies to mitigate seasonal fluctuations.
 
 
 ## Conclusion:
